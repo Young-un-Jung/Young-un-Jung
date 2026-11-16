@@ -10,7 +10,7 @@
 ### Awards
 - 2025 수도권 대학 데이터사이언스학회 × Upstage AI Agent QA 시나리오 구축 프로젝트 우수상 · [repo](https://github.com/Young-un-Jung/Emergency-ToolAgent-QA)
 - 2025 INHA SW FESTIVAL Kaggle 부문 우수상 (SW중심대학사업단장상) · [repo](https://github.com/Young-un-Jung/25_SW_Festival_Deco)
-- 2025 KISTI DATA·AI 분석 경진대회 본선 진출
-- 2024 INCOMTHON 대상 (SW중심대학사업단장상)
+- 2025 KISTI DATA·AI 분석 경진대회 본선 진출 · [repo](https://github.com/Young-un-Jung/2025-KISTI-CLIMB)
+- 2024 INCOMTHON 대상 (SW중심대학사업단장상) · [repo](https://github.com/Young-un-Jung/2024-INCOMTHON-MYWEATHERLOOK)
 
 Contact: data.psychics@gmail.com
